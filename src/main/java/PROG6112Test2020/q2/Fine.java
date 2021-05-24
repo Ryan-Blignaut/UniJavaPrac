@@ -1,4 +1,4 @@
-package PROG6112Test.q2;
+package PROG6112Test2020.q2;
 
 public abstract class Fine implements iFine
 {

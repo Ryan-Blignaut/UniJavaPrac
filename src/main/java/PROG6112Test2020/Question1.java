@@ -1,4 +1,4 @@
-package PROG6112Test.q2;
+package PROG6112Test2020;
 
 /*
  * Write a Java program to display the three highest monthly speeding fines recorded for four
@@ -12,7 +12,7 @@ package PROG6112Test.q2;
  *	PE   195km   155km    221km
  *
  * */
-public class Question2
+public class Question1
 {
 	public static void main(String[] args)
 	{
